@@ -1,4 +1,4 @@
-package examples;
+package examples.putongshuzu;
 //最大子数组和
 public class Example06 {
     public int maxSubArray(int[] nums) {

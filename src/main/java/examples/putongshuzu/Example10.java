@@ -1,7 +1,6 @@
-package examples;
+package examples.putongshuzu;
 //缺失的第一个正数
 import java.util.Arrays;
-import java.util.Comparator;
 
 public class Example10 {
     public int firstMissingPositive(int[] nums) {

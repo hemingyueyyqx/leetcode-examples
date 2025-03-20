@@ -1,4 +1,4 @@
-package examples;
+package examples.juzhen;
 
 import java.util.ArrayList;
 import java.util.List;

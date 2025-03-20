@@ -1,4 +1,4 @@
-package examples;
+package examples.zichuan;
 
 import java.util.HashMap;
 

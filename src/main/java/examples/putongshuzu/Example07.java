@@ -1,4 +1,4 @@
-package examples;
+package examples.putongshuzu;
 
 import java.util.ArrayList;
 import java.util.Arrays;

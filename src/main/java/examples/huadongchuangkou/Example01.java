@@ -1,4 +1,4 @@
-package examples;
+package examples.huadongchuangkou;
 
 import java.util.HashSet;
 //无重复字符的最长子串

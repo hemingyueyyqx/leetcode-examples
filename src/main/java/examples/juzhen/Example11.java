@@ -1,4 +1,4 @@
-package examples;
+package examples.juzhen;
 //矩阵置零
 public class Example11 {
     public void setZeroes(int[][] matrix) {

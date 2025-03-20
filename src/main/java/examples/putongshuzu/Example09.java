@@ -1,4 +1,4 @@
-package examples;
+package examples.putongshuzu;
 //除自身以外数组的乘积
 public class Example09 {
     public int[] productExceptSelf(int[] nums) {

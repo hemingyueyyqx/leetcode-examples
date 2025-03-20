@@ -1,4 +1,4 @@
-package examples;
+package examples.juzhen;
 //搜索二维矩阵
 public class Example14 {
     public boolean searchMatrix(int[][] matrix, int target) {
